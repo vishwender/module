@@ -27,7 +27,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Student Management System
                 </div>
             </div>
         </div>
